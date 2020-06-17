@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <Component id="Elemento1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="122" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="131" max="-2" attributes="0"/>
+                      <Component id="Elemento2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="63" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="113" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="73" max="-2" attributes="0"/>
+                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                      <Component id="Cantidad" min="-2" pref="73" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                      <Component id="Cantidad2" min="-2" pref="73" max="-2" attributes="0"/>
+                      <EmptySpace pref="218" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="178" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  <Component id="Res" min="-2" pref="105" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Elemento1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Elemento2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="17" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Cantidad2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Cantidad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+              <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Res" alignment="3" min="-2" pref="67" max="-2" attributes="0"/>
+                  <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JComboBox" name="Elemento1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="50">
+            <StringItem index="0" value="1 Hidr&#xf3;geno H"/>
+            <StringItem index="1" value="2 Litio&#x9;Li"/>
+            <StringItem index="2" value="3 Sodio Na"/>
+            <StringItem index="3" value="4 Potasio K"/>
+            <StringItem index="4" value="5 Rubidio Rb"/>
+            <StringItem index="5" value="6 Cesio Cs"/>
+            <StringItem index="6" value="7 Francio Fr"/>
+            <StringItem index="7" value="8 Berilio Be"/>
+            <StringItem index="8" value="9 Magnesio Mg"/>
+            <StringItem index="9" value="10 Calcio Ca"/>
+            <StringItem index="10" value="11 Estroncio Sr "/>
+            <StringItem index="11" value="12 Bario Ba"/>
+            <StringItem index="12" value="13 Radio Ra"/>
+            <StringItem index="13" value="14 Escandio Sc"/>
+            <StringItem index="14" value="15 Itrio Y"/>
+            <StringItem index="15" value="16  Zirconio Zr"/>
+            <StringItem index="16" value="17  Hafnio Hf"/>
+            <StringItem index="17" value="18  Plata Ag"/>
+            <StringItem index="18" value="19 Zinc Zn"/>
+            <StringItem index="19" value="20 Cadmio Cd"/>
+            <StringItem index="20" value="21 Aluminio Al"/>
+            <StringItem index="21" value="22 Galio Ga"/>
+            <StringItem index="22" value="23 Indio In"/>
+            <StringItem index="23" value="24 Fluor F "/>
+            <StringItem index="24" value="25 Oxigeno O"/>
+            <StringItem index="25" value="26 Germanio Ge"/>
+            <StringItem index="26" value="27 Esta&#xf1;o Sn"/>
+            <StringItem index="27" value="28 Talio Tl "/>
+            <StringItem index="28" value="29 Mercurio Hg"/>
+            <StringItem index="29" value="30 Cobre Cu"/>
+            <StringItem index="30" value="31 Oro Au"/>
+            <StringItem index="31" value="32 Platino PT"/>
+            <StringItem index="32" value="33 Paladio Pd"/>
+            <StringItem index="33" value="34 Niquel Ni"/>
+            <StringItem index="34" value="35 Cobalto Co"/>
+            <StringItem index="35" value="36 Hierro Fe"/>
+            <StringItem index="36" value="37 Tantalio Ta"/>
+            <StringItem index="37" value="38 Niobio Nb"/>
+            <StringItem index="38" value="39 Titanio Ti"/>
+            <StringItem index="39" value="40 Rodio Rh"/>
+            <StringItem index="40" value="41 Boro B"/>
+            <StringItem index="41" value="42 Plomo Pb"/>
+            <StringItem index="42" value="43 Silicio Si"/>
+            <StringItem index="43" value="44 Fosforo P"/>
+            <StringItem index="44" value="45 Arsenico As"/>
+            <StringItem index="45" value="46 Bismuto Bi "/>
+            <StringItem index="46" value="47 Antimomio Sb"/>
+            <StringItem index="47" value="48 Azufre S"/>
+            <StringItem index="48" value="49 Selenio Se"/>
+            <StringItem index="49" value="50 Telurio Te"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Switch1"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Elemento1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="Elemento2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="51">
+            <StringItem index="0" value="1 Hidr&#xf3;geno H"/>
+            <StringItem index="1" value="2 Litio&#x9;Li"/>
+            <StringItem index="2" value="3 Sodio Na"/>
+            <StringItem index="3" value="4 Potasio K"/>
+            <StringItem index="4" value="5 Rubidio Rb"/>
+            <StringItem index="5" value="6 Cesio Cs"/>
+            <StringItem index="6" value="7 Francio Fr"/>
+            <StringItem index="7" value="8 Berilio Be"/>
+            <StringItem index="8" value="9 Magnesio Mg"/>
+            <StringItem index="9" value="10 Calcio Ca"/>
+            <StringItem index="10" value="11 Estroncio Sr "/>
+            <StringItem index="11" value="12 Bario Ba"/>
+            <StringItem index="12" value="13 Radio Ra"/>
+            <StringItem index="13" value="14 Escandio Sc"/>
+            <StringItem index="14" value="15 Itrio Y"/>
+            <StringItem index="15" value="16  Zirconio Zr"/>
+            <StringItem index="16" value="17  Hafnio Hf"/>
+            <StringItem index="17" value="18  Plata Ag"/>
+            <StringItem index="18" value="19 Zinc Zn"/>
+            <StringItem index="19" value="20 Cadmio Cd"/>
+            <StringItem index="20" value="21 Aluminio Al"/>
+            <StringItem index="21" value="22 Galio Ga"/>
+            <StringItem index="22" value="23 Indio In"/>
+            <StringItem index="23" value="24 Fluor F "/>
+            <StringItem index="24" value="25 Oxigeno O"/>
+            <StringItem index="25" value="26 Germanio Ge"/>
+            <StringItem index="26" value="27 Esta&#xf1;o Sn"/>
+            <StringItem index="27" value="28 Talio Tl "/>
+            <StringItem index="28" value="29 Mercurio Hg"/>
+            <StringItem index="29" value="30 Cobre Cu"/>
+            <StringItem index="30" value="31 Oro Au"/>
+            <StringItem index="31" value="32 Platino PT"/>
+            <StringItem index="32" value="33 Paladio Pd"/>
+            <StringItem index="33" value="34 Niquel Ni"/>
+            <StringItem index="34" value="35 Cobalto Co"/>
+            <StringItem index="35" value="36 Hierro Fe"/>
+            <StringItem index="36" value="37 Tantalio Ta"/>
+            <StringItem index="37" value="38 Niobio Nb"/>
+            <StringItem index="38" value="39 Titanio Ti"/>
+            <StringItem index="39" value="40 Rodio Rh"/>
+            <StringItem index="40" value="41 Boro B"/>
+            <StringItem index="41" value="42 Plomo Pb"/>
+            <StringItem index="42" value="43 Silicio Si"/>
+            <StringItem index="43" value="44 Fosforo P"/>
+            <StringItem index="44" value="45 Arsenico As"/>
+            <StringItem index="45" value="46 Bismuto Bi "/>
+            <StringItem index="46" value="47 Antimomio Sb"/>
+            <StringItem index="47" value="48 Azufre S"/>
+            <StringItem index="48" value="49 Selenio Se"/>
+            <StringItem index="49" value="50 Telurio Te"/>
+            <StringItem index="50" value=" "/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Switch2"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Elemento2ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ingrese su Elemento"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Label1."/>
+      </AccessibilityProperties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ingrese su Elemento"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Comprobar"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="boton1"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Arial Black" size="18" style="0"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="33" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Oxidacion de un Compuesto"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Titulo"/>
+      </AccessibilityProperties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Res">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="2"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Texto"/>
+      </AccessibilityProperties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Cantidad">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Cantidad2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Subindice"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Subindice"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numero de Oxidacion&#xa;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Instrucciones"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="1.-Seleccione su Elemento"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="2.-Indique Su Subindice"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
